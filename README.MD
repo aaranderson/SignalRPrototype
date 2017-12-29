@@ -1,0 +1,1 @@
+A SignalR Prototype that we used to build the QJumper Merchant solution.
